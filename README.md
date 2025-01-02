@@ -5,7 +5,7 @@
 Clone the repository
 
 ```bash
-https://github.com/Rupesh-132/End-To-End-MLOPs-Credit_Card_Fraud_Detection
+https://github.com/Manojgangula20/End-To-End-MLOPs-Credit_Card_Fraud_Detection
 ```
 ### STEP 01- Create a virtual environment after opening the repository
 
@@ -17,7 +17,6 @@ pip install -r requirements.txt
 
 
 ```bash
-# Finally run the following command
 python main.py
 ```
 ```bash
@@ -86,6 +85,7 @@ export MLFLOW_TRACKING_PASSWORD=
 
 	
 ## 3. Create ECR repo to store/save docker image -- Search ECR(create repo)
+
     - Save the URI: 160179019096.dkr.ecr.us-east-1.amazonaws.com/credit-card-fraud-detection-mlops
 
 	

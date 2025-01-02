@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/credit-card-fraud-detection/mlruns/0/7d08f84006c94de581f9e80fe08fa131/artifacts
+end_time: 1735798422495
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d08f84006c94de581f9e80fe08fa131
+run_name: zealous-ape-811
+run_uuid: 7d08f84006c94de581f9e80fe08fa131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735798380600
+status: 3
+tags: []
+user_id: manoj
