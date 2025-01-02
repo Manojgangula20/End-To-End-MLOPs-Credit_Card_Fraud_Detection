@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/credit-card-fraud-detection/mlruns/0/d8aa3d545fd64fe08af8671796242578/artifacts
+end_time: 1735796938066
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8aa3d545fd64fe08af8671796242578
+run_name: wise-finch-897
+run_uuid: d8aa3d545fd64fe08af8671796242578
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735796894011
+status: 3
+tags: []
+user_id: manoj
